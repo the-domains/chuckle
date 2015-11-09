@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Never miss a mic again.]]></title>
+        <description><![CDATA[Never miss a mic again.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 Nov 2015 21:27:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Never Miss Another Mic]]></title>
+            <description><![CDATA[<h1>Never Miss Another Mic</h1>]]></description>
+            <link>undefinednever-miss-another-mic/index.html</link>
+            <guid isPermaLink="false">ba4db23f-b481-4426-9660-ca9f6b146c62</guid>
+            <pubDate>Mon, 09 Nov 2015 21:26:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
